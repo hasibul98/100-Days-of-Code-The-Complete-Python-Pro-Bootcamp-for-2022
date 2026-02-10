@@ -1,0 +1,7 @@
+print(len(4485748352423))
+print('hello'[1])
+print('123' + '456')
+print('hello' + 'world')
+print('124' + 'helo')
+print(123 + 435)
+print(454_684_434)
